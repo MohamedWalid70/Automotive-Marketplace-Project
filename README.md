@@ -1,1 +1,1 @@
-A website that is made for the sake of automotive marketplace where users can explore vehicles and make buying decisions
+A website that is made for the sake of automotive marketplace where users can explore vehicles and make buying decisions by the use of node.js as the backend and Javascript, html and css in the frontend
