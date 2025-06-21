@@ -1,6 +1,3 @@
-A website that is made for the sake of automotive marketplace where users can explore vehicles and make buying decisions.
-This project is entirely done by the use of node.js as the backend and Javascript, html and css in the frontend
-
 # 🚗 Automotive Marketplace Website
 
 A full-featured web application that allows users to browse, list, and manage cars for sale. This project simulates a modern automotive marketplace platform where buyers and sellers can connect through an intuitive, responsive interface.
